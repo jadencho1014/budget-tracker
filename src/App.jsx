@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="title">Budget-Track</h1>
+      <h1 className="title">Budget-Tracker</h1>
       <div className="header">
         <label>
           Total Budget:
